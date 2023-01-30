@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>frame63.jpg</filename>
+	<path>C:\Users\bcpet\Desktop\New Tensorflow Object Detection\TFODCourse\Tensorflow\workspace\images\collectedimages\data\frame63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pupil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1023</xmin>
+			<ymin>43</ymin>
+			<xmax>1148</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>
